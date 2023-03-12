@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-Real life project with Machine Learning
+Example of real life project with Machine Learning
